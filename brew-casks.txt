@@ -1,0 +1,22 @@
+# Application launcher and productivity software
+cask "alfred"
+# Command-line display management utility
+cask "cscreen"
+# Browser for SQLite databases
+cask "db-browser-for-sqlite"
+# App to build and share containerized applications and microservices
+cask "docker"
+# Terminal emulator as alternative to Apple's Terminal app
+cask "iterm2"
+# Calculator and converter application
+cask "numi"
+# Collaboration platform for API development
+cask "postman"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
+# Text editor for code, markup and prose
+cask "sublime-text"
+# Virtualizer for x86 hardware
+cask "virtualbox"
+# Open-source code editor
+cask "visual-studio-code"

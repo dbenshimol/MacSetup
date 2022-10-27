@@ -1,0 +1,44 @@
+# Development kit for the Java programming language
+brew "openjdk"
+# Engine for large-scale data processing
+brew "apache-spark"
+# Command-line interface for SQLite
+brew "sqlite"
+# General-purpose data compression with high compression ratio
+brew "xz"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.10"
+# GNU Emacs text editor
+brew "emacs"
+# Distributed revision control system
+brew "git"
+# Improved top (interactive process viewer)
+brew "htop"
+# Kubernetes command-line interface
+brew "kubernetes-cli"
+# General-purpose lossless data-compression library
+brew "zlib"
+# Open source relational database management system
+brew "mysql"
+# Fast, highly customisable system info script
+brew "neofetch"
+# Platform built on V8 to build network applications
+brew "node"
+# Cryptography and SSL/TLS Toolkit
+brew "openssl@3"
+# Object-relational database system
+brew "postgresql@14"
+# Python version management
+brew "pyenv"
+# JVM-based programming language
+brew "scala"
+# Command-line interface for https://speedtest.net bandwidth tests
+brew "speedtest-cli"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
+# Vi 'workalike' with many additional features
+brew "vim"
+# Internet file retriever
+brew "wget"
+# Fish shell like syntax highlighting for zsh
+brew "zsh-syntax-highlighting"
